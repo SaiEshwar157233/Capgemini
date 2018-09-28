@@ -3,5 +3,8 @@ Class Student{
 
 public int sId;
 
+main function(){
+
+}
 
 }
